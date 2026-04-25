@@ -41,7 +41,7 @@ Here are some of the key projects I’ve worked on during my studies:
 
 🎓 Certifications & Education
 
-    Master’s in Cybersecurity – [Institution Name]
+    Master’s in Cybersecurity – Universidad de Ávila, Deloitte x IMF Smart Education, Madrid Spain
     CompTIA Security+ (In Progress)
     Various courses in ethical hacking, forensics, and reverse engineering.
 
